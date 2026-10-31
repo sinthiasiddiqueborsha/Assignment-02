@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Assignment 02</string>
+    <string name="menu_broadcast_receiver">Broadcast Receiver</string>
+    <string name="menu_image_scale">Image Scale</string>
+    <string name="menu_video">Video</string>
+    <string name="menu_audio">Audio</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="prompt_select_broadcast_type">Select a Broadcast Type</string>
+    <string name="btn_proceed">Proceed</string>
+    <string name="option_custom_broadcast">Custom Broadcast Receiver</string>
+    <string name="option_system_battery">System Battery Notification Receiver</string>
+    <string name="title_custom_broadcast">Enter Custom Broadcast Message</string>
+    <string name="hint_type_message">Type message here...</string>
+    <string name="btn_send_message">Send Message</string>
+    <string name="title_received_message">Received Custom Message:</string>
+    <string name="text_waiting_broadcast">Waiting for broadcast…</string>
+    <string name="title_battery_status">System Battery Status</string>
+    <string name="text_battery_level_default">Battery Level: --%</string>
+    <string name="battery_level_format">Battery Level: %d%%</string>
+    <string name="btn_next">Next</string>
+    <string name="title_battery_summary">System Battery Summary</string>
+    <string name="text_battery_no_operation">No additional operation required for System Battery Notification.</string>
+    <string name="desc_scaled_image">Scaled internet image</string>
+    <string name="error_loading_image">Failed to load image. Please check your internet connection.</string>
+    <string name="title_video_player">Video Player</string>
+    <string name="title_audio_player">Audio Player</string>
+    <string name="btn_play">Play</string>
+    <string name="btn_pause">Pause</string>
+</resources>
