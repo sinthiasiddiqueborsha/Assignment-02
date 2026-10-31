@@ -1,0 +1,56 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: Sinthia Siddique Borsha
+Student ID: 22301041
+Assignment: CSE 489: Mobile Application Development - Assignment 2
+Date: 01/11/2026
+
+------------------------------------------------------------
+1. AI TOOLS USED
+------------------------------------------------------------
+[ ] ChatGPT
+[ ] Google Gemini
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+Learning/understanding concepts
+Debugging my code
+Generating code snippets
+Design/styling ideas
+Image generation
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+Briefly describe what you used AI for and how:
+I used Google Gemini and ChatGPT as AI assistant tools to guide me through the development of Assignment 2.
+Specifically, ChatGPT and Gemini helped in understanding Android Jetpack Navigation Drawer architecture, structuring
+multi-activity and fragment flows for Custom and System Battery Broadcast Receivers, implementing internet image loading
+with Glide and pinch-to-zoom with PhotoView, and managing media playback lifecycles for Video (VideoView) and Audio (MediaPlayer).
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: MainActivity.kt Section: Navigation Drawer & NavHost setup
+File: CustomReceiverActivity.kt Section: Dynamic BroadcastReceiver registration
+File: ImageScaleFragment.kt Section: Glide & PhotoView integration
+File: VideoFragment.kt / AudioFragment.kt Section: Media playback & lifecycle management
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: Sinthia
+Date: 01/01/2026
+
+============================================================
