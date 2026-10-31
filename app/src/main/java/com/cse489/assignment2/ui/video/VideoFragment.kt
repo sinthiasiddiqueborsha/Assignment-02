@@ -1,11 +1,11 @@
 package com.cse489.assignment2.ui.video
 
-import android.net.Uri
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.MediaController
+import androidx.core.net.toUri
 import androidx.fragment.app.Fragment
 import com.cse489.assignment2.databinding.FragmentVideoBinding
 
@@ -28,7 +28,7 @@ class VideoFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         val videoUrl = "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
-        val uri = Uri.parse(videoUrl)
+        val uri = videoUrl.toUri()
 
         val mediaController = MediaController(requireContext())
         mediaController.setAnchorView(binding.videoView)
